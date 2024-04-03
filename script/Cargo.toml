@@ -1,7 +1,7 @@
 [workspace]
 [package]
 version = "0.1.0"
-name = "sp1-bls12-381-pairing-script"
+name = "bls12381-pairing-script"
 edition = "2021"
 
 [dependencies]
